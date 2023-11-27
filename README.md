@@ -71,3 +71,17 @@ Fetches details of a card based on the provided card ID.
 
 updateCard(cardId, updatedCard)
 Updates a card based on the provided card ID and updated details.
+
+## User Authentication Context
+AuthContextProvider
+The AuthContextProvider component wraps your application components and provides the authentication context to them. It includes the following:
+
+user: The current authenticated user.
+login(credentials): A function to log in a user.
+logout(): A function to log out the current user.
+useAuth
+The useAuth hook allows you to access the authentication context within your components. It returns an object with the following properties:
+
+user: The current authenticated user.
+login(credentials): A function to log in a user.
+logout(): A function to log out the current user.
