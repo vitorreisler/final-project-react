@@ -19,7 +19,7 @@ Makes a DELETE request to the specified URL.
 setCommonHeader(headerName, headerValue)
 Sets a common header for all requests.
 
-##User Functions
+## User Functions
 register(user)
 Registers a new user.
 
@@ -50,7 +50,7 @@ Gets the current user information. (Note: Synchronous function)
 getJWT()
 Gets the authentication token.
 
-##Card Function
+## Card Function
 getAllCards()
 Fetches all cards.
 
