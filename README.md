@@ -1,7 +1,7 @@
 # final-project-react
 
 ## Do not forget to do 
-``` bash npm i ``` at the start of the project
+```  npm i ``` at the start of the project
 
 ## HTTP Service
 get(url)
