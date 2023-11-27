@@ -1,5 +1,7 @@
 # final-project-react
 
+## Do not forget to do npm i at the start of the project
+
 ## HTTP Service
 get(url)
 Makes a GET request to the specified URL.
