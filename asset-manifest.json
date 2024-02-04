@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/final-project-react/static/css/main.33448651.css",
-    "main.js": "/final-project-react/static/js/main.844c0d68.js",
+    "main.css": "/final-project-react/static/css/main.65791590.css",
+    "main.js": "/final-project-react/static/js/main.9f3c72ca.js",
     "static/js/787.2f6b9e6f.chunk.js": "/final-project-react/static/js/787.2f6b9e6f.chunk.js",
     "static/media/bootstrap-icons.woff?": "/final-project-react/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
     "static/media/bootstrap-icons.woff2?": "/final-project-react/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
     "static/media/shutterstock_774749455.jpeg": "/final-project-react/static/media/shutterstock_774749455.0d4522fa782dc7228b2e.jpeg",
     "index.html": "/final-project-react/index.html",
-    "main.33448651.css.map": "/final-project-react/static/css/main.33448651.css.map",
-    "main.844c0d68.js.map": "/final-project-react/static/js/main.844c0d68.js.map",
+    "main.65791590.css.map": "/final-project-react/static/css/main.65791590.css.map",
+    "main.9f3c72ca.js.map": "/final-project-react/static/js/main.9f3c72ca.js.map",
     "787.2f6b9e6f.chunk.js.map": "/final-project-react/static/js/787.2f6b9e6f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33448651.css",
-    "static/js/main.844c0d68.js"
+    "static/css/main.65791590.css",
+    "static/js/main.9f3c72ca.js"
   ]
 }
